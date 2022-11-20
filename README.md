@@ -1,4 +1,4 @@
-# Getting Started Usachs
+# Getting Started Usach
 
 ## Windows
 
