@@ -1,5 +1,5 @@
 # Getting Started
-
+Esta es una prueba para release v1.0
 ## Windows
 
 ### Compile Code
